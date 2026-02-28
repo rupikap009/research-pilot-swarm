@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Swarm",
+  "description": "Multi-agent document analysis platform using Gemini 2.0 Flash for deep research insights.",
+  "requestFramePermissions": []
+}
